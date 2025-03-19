@@ -1,0 +1,9 @@
+node_modules
+.gitignore
+.dockerignore
+.env
+/backend/node_modules
+/backend/.gitignore
+/backend/.dockerignore
+/backend/.env
+
