@@ -1,9 +1,6 @@
-node_modules
-.gitignore
-.dockerignore
 .env
+node_modules
 /backend/node_modules
-/backend/.gitignore
-/backend/.dockerignore
 /backend/.env
-
+/backend/.dockerignore
+.dockerignore
