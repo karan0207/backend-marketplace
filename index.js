@@ -24,7 +24,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 app.use(cors({
-  origin: 'http://localhost:8080' // Allow requests from this origin
+  origin: 'https://frontend-marketplace-chi.vercel.app' // Allow requests from this origin
 }));
 
 app.use("/api/users", userRoutes);
