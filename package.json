@@ -5,7 +5,6 @@
   "description": "Ecommerce Marketplace website",
   "main": "index.js",
   "scripts": {
-    "build": "npm install && node index.js",
     "backend": "nodemon index.js",
     "start": "node index.js"
   },
